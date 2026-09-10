@@ -1,2 +1,2 @@
 # miniature-octo-sniffle
-AI Agent Instruction Locatoin
+AI Agent Instruction Location
