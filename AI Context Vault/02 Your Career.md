@@ -1,4 +1,5 @@
 > For employees, executives, and anyone building within an organization
+
 I want you to develop a comprehensive understanding of my career—where I am, where I want to go, and everything that shapes my
 professional life. This will become a reference document you can use whenever I need career-related advice, help with work
 challenges, or strategic thinking about my professional trajectory. 
