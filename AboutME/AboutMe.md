@@ -34,13 +34,17 @@ Recommended length:
 This should be more professionally focused than the Mission Statement below.
 -->
 
+An experienced engineer with a background in structural engineering and extensive involvement in multidisciplinary design-build projects. His work spans structural analysis and design, thin-shell concrete structures, finite element analysis, foundations and deep foundations, construction support, post-event evaluation, and coordination across industrial and bulk storage projects. He provides technical direction and review, supports engineering staff, coordinates with internal teams, clients, and vendors, and helps lead projects from early sales support through design and construction. His experience includes adapting to new codes, jurisdictions, and technical challenges while managing multiple complex projects simultaneously. He brings a combination of technical depth, practical judgment, leadership, and problem-solving skills that allows him to contribute across the full scope of a project.
+
 ## Mission Statement
 
-Live, Learn, Grow. I want to learn everything that I can, in many areas of my life. I will never pass up an opportunity to learn. One important step in the learning process is experience: live what you learn and learn what you live. Ultimately, the learning process will make you grow.
+**Live, Learn, Grow.**
 
-I strive to live these principles and apply them in all areas of my life. I try to understand the problems I face by learning as much as I can about them. I apply that knowledge and try to understand the proper application of what I have learned. I try to learn as an individual and as a team member.
+I seek opportunities to learn throughout all areas of my life and believe that experience is an essential part of that process: live what you learn and learn what you live. Knowledge becomes meaningful through application, and experience provides the opportunity to test, refine, and deepen what I have learned.
 
-Growth occurs as I gain experience. I try to grow a little each day by gaining knowledge and experience. The growth I strive for encompasses both breadth and depth, which I feel is necessary for a person to be balanced.
+I strive to approach problems by first understanding them, learning as much as I reasonably can, and then applying that knowledge thoughtfully and practically. I value learning both independently and alongside others, recognizing that different perspectives strengthen understanding.
+
+Through continued learning and experience, I strive to grow a little each day. I seek growth in both breadth and depth, developing a broad understanding while continually strengthening the areas in which deeper knowledge and experience are needed.
 
 # Specialties
 
@@ -52,47 +56,66 @@ This section should remain relatively short. The more comprehensive inventory be
 
 ## Technical Expertise
 
-- Professional Engineering
 - Finite Element Analysis
 - Structural Analysis and Design
+- Bulk Storage and Silo Structural Analysis and Design
 - Reinforced Concrete Design
-- Structural Steel Design
 - Thin-Shell Concrete Design
-- Silo Design
-- Project Management
+- Structural Steel Design
+
+
 
 ## Industry Expertise
 
-<!--
-Examples:
 - Bulk Material Storage
-- Cement
-- Mining
-- Ports and Terminals
 - Industrial Facilities
--->
+- Cement, Biomass, and Grain Handling
+- Domes and Large-Volume Storage Structures
+- Material Handling Facilities
+- International Industrial Projects
 
 ## Codes and Standards
 
-- ASCE 7
+- ASCE/SEI 7
 - International Building Code (IBC)
 - ACI 318
 - ACI 313
 - ACI 334
-- AISC
+- AISC 360
+- AISC 341
+- Eurocode 2 (EN 1992)
+- Internationally Adopted Structural Codes and Standards
 
 ## Software
 
 - FEMAP
-- Mathcad
 - SMath
 - Microsoft Excel
 - AutoCAD
-- Revit
+- Autodesk Revit
+- RISA 3D
+- Microsoft Project
 
 ## Management and Leadership
 
-- Project Management
+- Engineering Project Management
+- Engineering Team Leadership
+- Technical Direction and Mentoring
+- Engineering Design Review
+- Multidisciplinary Project Coordination
+- Resource and Workload Management
+- Sales and Preconstruction Engineering Support
+
+## Project Delivery and Field Experience
+
+- Design-Build Project Delivery
+- Construction Engineering Support
+- Field Investigation and Site Evaluation
+- Post-Event Inspection and Evaluation
+- Existing Structure Assessment
+- Constructability Review
+- Engineering Sales Support
+- Client and Contractor Technical Support
 
 # Experience
 
@@ -134,7 +157,7 @@ STRUCTURE
 
 **ID:** role-dome-technology-engineering-project-manager  
 **Start:** 2018  
-**End:**  
+**End:**  Present
 **Location:** Idaho Falls, Idaho, United States
 
 #### Summary
