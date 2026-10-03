@@ -311,58 +311,12 @@ STRUCTURE
 
 **ID:** company-ttm-technologies
 
-### [Role Title]
+### Router
 
-**ID:** role-ttm-[role]  
-**Start:**  
-**End:**  
-**Location:**
-
-#### Summary
-
-#### Responsibilities
-
-#### Accomplishments
-
-#### Projects
-
-#### References
-
-#### Tags
-
-## Outlaw Coatings
-
-**ID:** company-outlaw-coatings
-
-### [Role Title]
-
-**ID:** role-outlaw-coatings-[role]  
-**Start:**  
-**End:**  
-**Location:**
-
-#### Summary
-
-#### Responsibilities
-
-#### Accomplishments
-
-#### Projects
-
-#### References
-
-#### Tags
-
-## Boomerang Systems
-
-**ID:** company-boomerang-systems
-
-### [Role Title]
-
-**ID:** role-boomerang-systems-[role]  
-**Start:**  
-**End:**  
-**Location:**
+**ID:** role-ttm-router
+**Start:**  2008-10
+**End:**  2010-05
+**Location:** Logan, Utah, United States
 
 #### Summary
 
@@ -380,12 +334,58 @@ STRUCTURE
 
 **ID:** company-vsm-technologies
 
-### [Role Title]
+### Fabricator
 
-**ID:** role-vsm-technologies-[role]  
-**Start:**  
-**End:**  
-**Location:**
+**ID:** role-vsm-technologies-fabricator  
+**Start:**  2008-05
+**End:**  2008-09
+**Location:** Idaho Falls, Idaho, United States
+
+#### Summary
+
+#### Responsibilities
+
+#### Accomplishments
+
+#### Projects
+
+#### References
+
+#### Tags
+
+## Boomerang Systems
+
+**ID:** company-boomerang-systems
+
+### Fabricator
+
+**ID:** role-boomerang-systems-fabricator  
+**Start:**  2007-09
+**End:**  2008-05
+**Location:** Logan, Utah, United States
+
+#### Summary
+
+#### Responsibilities
+
+#### Accomplishments
+
+#### Projects
+
+#### References
+
+#### Tags
+
+## Outlaw Coatings
+
+**ID:** company-outlaw-coatings
+
+### Flooring Specialist
+
+**ID:** role-outlaw-coatings-flooring-specialist  
+**Start:**  2007-09
+**End:**  2012-05
+**Location:** Willard, Utah, United States
 
 #### Summary
 
@@ -403,12 +403,12 @@ STRUCTURE
 
 **ID:** organization-church-of-jesus-christ-of-latter-day-saints
 
-### [Role Title]
+### Volunteer Missionary
 
-**ID:** role-church-[role]  
-**Start:**  
-**End:**  
-**Location:**
+**ID:** role-church-missionary  
+**Start:**  2005-09
+**End:**  2007-09
+**Location:** Birmingham, Alabama, United States
 
 #### Summary
 
@@ -426,12 +426,12 @@ STRUCTURE
 
 **ID:** company-bd-fabrication
 
-### [Role Title]
+### Fabricator
 
-**ID:** role-bd-fabrication-[role]  
-**Start:**  
-**End:**  
-**Location:**
+**ID:** role-bd-fabrication-fabricator  
+**Start:**  2004-06
+**End:**  2005-09
+**Location:** Brigham City, Utah, United States
 
 #### Summary
 
@@ -449,12 +449,35 @@ STRUCTURE
 
 **ID:** company-autozone
 
-### [Role Title]
+### Customer Service Representative
 
-**ID:** role-autozone-[role]  
-**Start:**  
-**End:**  
-**Location:**
+**ID:** role-autozone-customer-service 
+**Start:**  2004-06
+**End:**  2005-01
+**Location:** Ogden, Utah, United States
+
+#### Summary
+
+#### Responsibilities
+
+#### Accomplishments
+
+#### Projects
+
+#### References
+
+#### Tags
+
+## Lunday Dairy
+
+**ID:** company-lunday-dairy
+
+### Night Manager
+
+**ID:** role-night-manager
+**Start:** 2001-10
+**End:** 2004-06
+**Location:** Willard, Utah, United States
 
 #### Summary
 
@@ -534,14 +557,14 @@ Use IDs from the Courses section rather than repeating complete course records h
 ## Box Elder High School
 
 **ID:** institution-box-elder-high-school  
-**Location:**
+**Location:** Brigham City, Utah, United States
 
 ### High School Diploma
 
 **ID:** degree-box-elder-high-school-diploma  
-**Start:**  
-**End:**  
-**Degree Date:**
+**Start:**  2000-09
+**End:**  2004-06
+**Degree Date:** 2004-06-04
 
 #### Courses
 
