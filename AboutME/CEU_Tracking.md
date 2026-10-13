@@ -16,9 +16,21 @@ last_updated: 2026-10-13
 # 2026
 
 <!--
-## Title
-**Credits:** 
-**Certificate Issuer:** 
 
+Can we add this from NCEES directly? Is there an API to try to sus this out?
+
+## Title
+**Start Date:**
+**Completion Date:**
+**Course Title:**
+**Course Provider:** This has a list associated with it.
+**Instructor:**
+**Area:**
+**Hours:** 
+**Class Type:** List: Face to Face, Online - Recorded, Onlive - Live
+**City:**
+**State:**
+**Description/Learning Objectives:**
+**Documents:**
 
 -->
