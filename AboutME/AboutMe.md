@@ -161,12 +161,86 @@ STRUCTURE
 **Location:** Idaho Falls, Idaho, United States
 
 #### Summary
+As an Engineering Project Manager, I am in charge of managing projects. I am also an engineering manager. 
 
 #### Responsibilities
+
+1. Sales Support and Preliminary Design
+
+I support the sales process by developing preliminary dome designs in response to RNC requests. This involves using spreadsheets, engineering judgment, and experience with similar projects to establish a viable design early in the process. Because our domes can impose significant loads on their foundations, I am also frequently involved in preliminary foundation design. This includes reviewing geotechnical reports and evaluating suitable foundation systems.
+
+A key part of this work is understanding what the client needs, sometimes before they have fully defined those needs themselves. I draw on my experience across different project types to help guide clients toward solutions that make sense for the overall success of the project.
+
+My sales support extends beyond preliminary dome design. I also help develop bills of quantities for various project components and evaluate potential solutions at a high level. I can often determine whether a system is feasible, identify an appropriate structural approach, or estimate the size of a beam or other component with a few preliminary calculations. Although details may change as the design progresses, my goal is to establish a reliable starting point and keep our estimates within a reasonable range.
+
+2. Client Relations
+
+I work closely with clients throughout the project, particularly after we move beyond the sales phase. One of the most rewarding parts of my job is getting to know our clients, understanding their needs, and helping them get the best possible result.
+
+I focus on value engineering and look for opportunities to improve the design, reduce costs, or find better solutions without compromising the project’s objectives. I also work to understand the full scope of supply, identify gaps that we may be able to fill, and help clients find the right resources when those needs fall outside our scope.
+
+I enjoy meeting clients in the field and walking the site with them, both at the beginning of a project and during its completion. To me, a successful project is about more than meeting contractual deliverables. It is also about building trust and strengthening the relationship so that the client wants to work with us again.
+
+3. Design Coordination and Project Management
+
+I coordinate the engineering work across Structural, Mechanical, Design/Drafting, and Detailing, helping these disciplines work together to deliver the project. I manage engineering schedules using Microsoft Project and oversee engineering budgets, although our budgets are generally straightforward.
+
+I approach this role as a conductor of the engineering effort. I have enough technical knowledge across the various disciplines to understand their work, anticipate challenges, and keep things moving. When a problem arises, I determine whether I can resolve it directly or whether the right approach is to bring in someone with more specialized expertise.
+
+My goal is to keep the engineering team coordinated, resolve issues before they become major delays, and ensure that the different parts of the design come together into a complete and workable solution.
+
+4. Structural Engineering and Design
+
+I perform structural design and analysis using FEMAP, RISA, spreadsheets, and other engineering tools. I have more than 10 years of experience with FEMAP and am particularly experienced in finite element analysis, including shell and plate models, two-dimensional structural analysis, and three-dimensional models.
+
+My experience with FEA has reinforced the importance of verifying analytical results rather than relying on software output alone. I check models using independent calculations, hand checks, and overall force and equilibrium checks. This approach has made me a better engineer and influences how I mentor younger engineers, encouraging them to understand the underlying engineering and verify that their models behave as expected.
+
+I am proficient with RISA-3D, RISA Foundation, and RISA Connection and have used these tools to design a variety of steel structures. My design experience includes structural steel, reinforced concrete, masonry, and wood.
+
+I also have extensive experience with Microsoft Excel and VBA, which I use to develop engineering spreadsheets and automate calculations. I try to build repeatability and usability into these tools so that the next person can use them efficiently and confidently. I supplement my spreadsheet work with SMath to check units, work through calculations, and explore engineering problems. I have also used Mathcad.
+
+For engineering calculations and documentation, I use tools such as Word, Overleaf, Calcs.com, and EnerCalc. I continually look for opportunities to improve my technical skills, refine my workflows, and develop better ways to solve engineering problems.
+
+5. Mechanical and Process Design Coordination
+
+Although I am not a mechanical engineer by training, I have substantial exposure to mechanical and process systems through my work on industrial projects. I can discuss equipment and system requirements with clients and coordinate around dust collection systems, pneumatic conveying, conveyors, ship unloaders, bucket elevators, cleanup screws, and related equipment.
+
+I regularly coordinate with vendors to resolve equipment and interface requirements and contribute to the preparation of installation, operation, and maintenance (IOM) manuals. I also have a working understanding of HVAC fundamentals, although detailed HVAC design falls outside my primary area of expertise.
+
+My role is to help ensure that mechanical and process equipment is properly integrated with the overall project and that the relevant requirements are understood and coordinated among the client, vendors, and engineering team.
+
+6. Construction Administration and Project Closeout
+
+I support projects through construction by working with field personnel, answering requests for information (RFIs), reviewing submittals, and helping resolve issues that arise during installation. I also participate in site visits and project closeout activities.
+
+I view construction administration as an important extension of the design process. Field conditions and installation challenges provide valuable feedback on how well our designs work in practice. I use these experiences, along with lessons learned at project completion, to identify opportunities to improve future designs, standards, and workflows.
+
+7. Engineering Management and Team Development
+
+I contribute to the management and development of the engineering team through mentoring, technical leadership, training, and performance reviews. I help develop training plans, use OrangeHRM for relevant management activities, and work to build the team’s technical capabilities.
+
+I have also authored an Engineering Management program to help establish a more consistent approach to managing engineering work and developing the team. I see engineering management as more than assigning work and tracking schedules. It involves helping people grow, giving them the tools and guidance they need, and creating an environment where the team can consistently deliver quality work.
+
+8. Engineering Standards and Procedures
+
+I develop and maintain engineering standards and procedures to improve consistency, quality, and efficiency across the organization. This includes CAD standards, engineering document standards, and document control procedures.
+
+My focus is on creating standards that are practical, repeatable, and useful to the people doing the work. Well-developed standards help reduce unnecessary variation, make work easier to review and maintain, and allow the team to build on established practices rather than repeatedly solving the same problems from scratch.
+
+```your master description of responsibilities. It captures more than a list of duties; it shows how you operate as an engineer and how you contribute to the business.
+Three things stand out to me.
+You bridge sales, engineering, and construction. You are involved from the earliest conversations about feasibility and cost through design coordination and field execution. That breadth is a significant part of your value.
+You combine technical depth with project-level judgment. Your FEMAP experience, independent verification practices, and spreadsheet automation demonstrate technical competence, while your preliminary design and coordination work demonstrate the ability to make decisions with incomplete information.
+You build capability beyond your own work. Mentoring engineers, developing training plans, writing management programs, and establishing standards all help the organization perform better, not just complete individual projects.
+One distinction I would preserve is that you are not claiming to be the specialist in every discipline. You understand enough about mechanical systems, detailing, and the other engineering functions to coordinate the work intelligently and recognize when specialized expertise is needed. That is a credible and valuable leadership skill.
+My only caution is that this document is fairly detailed. That is appropriate for a comprehensive responsibilities document, a performance review, or a career-development discussion. If you eventually want to use it for a résumé or promotion case, I would condense it and emphasize outcomes, scope, and accomplishments rather than listing every tool and activity.
+The next improvement I would make is to add a few concrete examples—such as a project where your preliminary engineering changed the proposed solution, a difficult design problem you resolved, or a standard you developed that improved the team's workflow. Those examples would turn this from a good description of your responsibilities into a compelling account of your impact.```
+
 
 #### Accomplishments
 
 #### Projects
+
 
 #### References
 
