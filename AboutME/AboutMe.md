@@ -227,14 +227,16 @@ I develop and maintain engineering standards and procedures to improve consisten
 
 My focus is on creating standards that are practical, repeatable, and useful to the people doing the work. Well-developed standards help reduce unnecessary variation, make work easier to review and maintain, and allow the team to build on established practices rather than repeatedly solving the same problems from scratch.
 
-```your master description of responsibilities. It captures more than a list of duties; it shows how you operate as an engineer and how you contribute to the business.
+```
+your master description of responsibilities. It captures more than a list of duties; it shows how you operate as an engineer and how you contribute to the business.
 Three things stand out to me.
 You bridge sales, engineering, and construction. You are involved from the earliest conversations about feasibility and cost through design coordination and field execution. That breadth is a significant part of your value.
 You combine technical depth with project-level judgment. Your FEMAP experience, independent verification practices, and spreadsheet automation demonstrate technical competence, while your preliminary design and coordination work demonstrate the ability to make decisions with incomplete information.
 You build capability beyond your own work. Mentoring engineers, developing training plans, writing management programs, and establishing standards all help the organization perform better, not just complete individual projects.
 One distinction I would preserve is that you are not claiming to be the specialist in every discipline. You understand enough about mechanical systems, detailing, and the other engineering functions to coordinate the work intelligently and recognize when specialized expertise is needed. That is a credible and valuable leadership skill.
 My only caution is that this document is fairly detailed. That is appropriate for a comprehensive responsibilities document, a performance review, or a career-development discussion. If you eventually want to use it for a résumé or promotion case, I would condense it and emphasize outcomes, scope, and accomplishments rather than listing every tool and activity.
-The next improvement I would make is to add a few concrete examples—such as a project where your preliminary engineering changed the proposed solution, a difficult design problem you resolved, or a standard you developed that improved the team's workflow. Those examples would turn this from a good description of your responsibilities into a compelling account of your impact.```
+The next improvement I would make is to add a few concrete examples—such as a project where your preliminary engineering changed the proposed solution, a difficult design problem you resolved, or a standard you developed that improved the team's workflow. Those examples would turn this from a good description of your responsibilities into a compelling account of your impact.
+```
 
 
 #### Accomplishments
