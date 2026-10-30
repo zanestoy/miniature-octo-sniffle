@@ -68,7 +68,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > y�uau� Recognize available literature and ACI PRC-351.3 guidance relevant to dynamic foundation 
 > design.
 
-**Documents:** [1988807-1.pdf](pdfs/1988807-1.pdf)
+**Documents:** [1988807-1.pdf](CEUpdfs/1988807-1.pdf)
 
 ## Indiana-Statutes Rules and Ethics for Professional Engineers
 
@@ -92,7 +92,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > The primary objective of this course is to familiarize the student with current laws and rules regulating the practice of engineering in the state of Indiana and to familiarize the student with the standards of professional behavior for adherence to the highest ethical conduct.
 > Upon successful completion of the course the student will be well versed in the applicable laws and rules and be well versed to exhibit the highest standards of honesty and integrity deemed paramount to this profession.
 
-**Documents:** [1934461-1.pdf](pdfs/1934461-1.pdf)
+**Documents:** [1934461-1.pdf](CEUpdfs/1934461-1.pdf)
 
 ## CSA S157-17 (R2022) Aluminum Design in RFEM 6
 
@@ -114,7 +114,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Member design acc. to the CSA S157-17 (R2022)
 > Analysis and design results review
 
-**Documents:** [1934465-1.pdf](pdfs/1934465-1.pdf)
+**Documents:** [1934465-1.pdf](CEUpdfs/1934465-1.pdf)
 
 
 # 2025
@@ -144,7 +144,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Design criteria for various types of structures
 > Identify special considerations with regard to certain materials in specific applications.
 
-**Documents:** [1802643-1.pdf](pdfs/1802643-1.pdf)
+**Documents:** [1802643-1.pdf](CEUpdfs/1802643-1.pdf)
 
 ## Slope Stability in Embankments and Structures
 
@@ -171,7 +171,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Explain methods and tools to solve slope instability issues
 > Understand methods to improve stability
 
-**Documents:** [1802570-1.pdf](pdfs/1802570-1.pdf)
+**Documents:** [1802570-1.pdf](CEUpdfs/1802570-1.pdf)
 
 ## Laboratory Testing for Geotechnical Design and Construction
 
@@ -198,7 +198,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Explain measured parameters
 > Understand common guidelines for testing soils and rocks
 
-**Documents:** [1802586-1.pdf](pdfs/1802586-1.pdf)
+**Documents:** [1802586-1.pdf](CEUpdfs/1802586-1.pdf)
 
 ## Geotechnical Subsurface Exploration for Roadways
 
@@ -225,7 +225,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Explain various tests in addition to the standard penetration test (SPT)
 > Understand guidelines for minimum exploration
 
-**Documents:** [1802611-1.pdf](pdfs/1802611-1.pdf)
+**Documents:** [1802611-1.pdf](CEUpdfs/1802611-1.pdf)
 
 ## Engineering Description of Soils and Rocks
 
@@ -252,7 +252,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Explain rock descriptions and classifications (SPT)
 > Understand subsurface profile development
 
-**Documents:** [1802621-1.pdf](pdfs/1802621-1.pdf)
+**Documents:** [1802621-1.pdf](CEUpdfs/1802621-1.pdf)
 
 ## Stress and Strain in Soils
 
@@ -272,7 +272,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Objectives:
 > The primary objective of this course is to enable the student to understand the properties and mechanics of soils and accurately calculate the stresses and deformations of soil masses.
 
-**Documents:** [1802531-1.pdf](pdfs/1802531-1.pdf)
+**Documents:** [1802531-1.pdf](CEUpdfs/1802531-1.pdf)
 
 ## FEMA P-1026 Seismic Design of Rigid Wall-Flexible Diaphragm  Buildings: An Alternative Procedure
 
@@ -290,7 +290,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 
 > Description: The 2022 edition of ASCE/SEI 7 includes a new seismic design procedure for rigid wall-flexible diaphragm (RWFD) buildings that explicitly accounts for diaphragm response and better reflects expected seismic behavior. This webinar will summarize the new procedure as presented in FEMA P-1026 Seismic Design of Rigid Wall-Flexible Diaphragm Buildings which was updated in 2021 to incorporate newly available research and numerical studies on bare-steel-deck and wood diaphragms and to expand the design examples.
 
-**Documents:** [1435329-1.pdf](pdfs/1435329-1.pdf)
+**Documents:** [1435329-1.pdf](CEUpdfs/1435329-1.pdf)
 
 
 # 2024
@@ -311,7 +311,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 
 > Post-installed rebar for a structural joint is often used to extend rehabilitate and strengthen existing concrete structures. Post-installed rebar for structural joints can be used in multiple types of construction such as concrete bridges commercial high-rises school buildings water treatment facilities or other common civil or structural engineering structures. In this session we will review the design provisions in ACI 318 Chapter 17 22 and 25 that can be utilized for post-installed rebar in structural joint connections. In addition we will discuss alternative research-based design methods for concrete-to-concrete connections that exist to support engineers in scenarios where their application design does not fit into the model code design provisions.
 
-**Documents:** [992058-1.pdf](pdfs/992058-1.pdf)
+**Documents:** [992058-1.pdf](CEUpdfs/992058-1.pdf)
 
 ## Indiana-Statutes Rules and Ethics for Professional Engineers
 
@@ -339,7 +339,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > The engineery�uau�s duty to maintain client confidentiality
 > The engineery�uau�s responsibility to the profession
 
-**Documents:** [986382-1.pdf](pdfs/986382-1.pdf)
+**Documents:** [986382-1.pdf](CEUpdfs/986382-1.pdf)
 
 ## Approach Roadway Deformations
 
@@ -362,7 +362,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Objectives:
 > The primary objective of this course is to enable the student to understand approach embankment design and construction and methods to mitigate deformations typically seen in these structures."
 
-**Documents:** [981693-1.pdf](pdfs/981693-1.pdf)
+**Documents:** [981693-1.pdf](CEUpdfs/981693-1.pdf)
 
 
 # 2023
@@ -412,7 +412,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Checking computer design of rigid frames
 > Shortcuts for beam design and deflections control
 
-**Documents:** [861087-1.pdf](pdfs/861087-1.pdf)
+**Documents:** [861087-1.pdf](CEUpdfs/861087-1.pdf)
 
 ## Designing Buildings With Overhead Cranes (AWI122010)
 
@@ -468,7 +468,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Crane accessories
 > Conclusion final Q&A
 
-**Documents:** [861604-1.pdf](pdfs/861604-1.pdf)
+**Documents:** [861604-1.pdf](CEUpdfs/861604-1.pdf)
 
 ## New Provisions for Qualification and Design of Post-Installed Adhesive Anchors into Cracked and Uncracked Masonry
 
@@ -500,7 +500,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Incorporate special inspection service condition and installation provisions into specifications
 > Perform adhesive anchor calculations in cracked and uncracked masonry elements
 
-**Documents:** [810517-1.pdf](pdfs/810517-1.pdf)
+**Documents:** [810517-1.pdf](CEUpdfs/810517-1.pdf)
 
 ## Kwik-X Dual Action Anchor
 
@@ -518,7 +518,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 
 > Join Hilti experts to discuss Kwik-X and how it changes the game for anchoring by delivering high-capacity performance with a simplified installation.
 
-**Documents:** [681214-1.pdf](pdfs/681214-1.pdf)
+**Documents:** [681214-1.pdf](CEUpdfs/681214-1.pdf)
 
 ## Reinforced Concrete Tank Design in RFEM 6
 
@@ -540,7 +540,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Analysis and design results review
 > Soil structure interaction utilizing the Geotechnical Analysis Add-on
 
-**Documents:** [678489-1.pdf](pdfs/678489-1.pdf)
+**Documents:** [678489-1.pdf](CEUpdfs/678489-1.pdf)
 
 
 # 2022
@@ -585,7 +585,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Learn about the specific testing requirements for membrane materials and connections
 > Identify air supported structures
 
-**Documents:** [678492-1.pdf](pdfs/678492-1.pdf)
+**Documents:** [678492-1.pdf](CEUpdfs/678492-1.pdf)
 
 ## Setting and Achieving Personal and Organization Goals (AWI020817)
 
@@ -661,7 +661,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Guiding supervisees/protyuu�gyuu�s y�uauE the multiplier effect
 > Wrap up"
 
-**Documents:** [678490-1.pdf](pdfs/678490-1.pdf)
+**Documents:** [678490-1.pdf](CEUpdfs/678490-1.pdf)
 
 ## Risk Management and Design Immunity - An Interactive Approach to What Works and What Doesn't (AWI032620)
 
@@ -710,7 +710,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Gain Access to Additional Resources And References
 > Learn from Actual Cases - What Went Right or Wrong for All Parties Involved
 
-**Documents:** [678494-1.pdf](pdfs/678494-1.pdf)
+**Documents:** [678494-1.pdf](CEUpdfs/678494-1.pdf)
 
 ## Introduction to the Seismic Design of Nonbuilding Structures to ASCE 7-16 (AWI102517)
 
@@ -754,7 +754,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Understand how to apply reference standards in the design of nonbuilding structures
 > Learn how to determine seismic forces on nonbuilding structures
 
-**Documents:** [678493-1.pdf](pdfs/678493-1.pdf)
+**Documents:** [678493-1.pdf](CEUpdfs/678493-1.pdf)
 
 ## How to Plan Projects Effectively - Two Part Series (AWI020613)
 
@@ -850,7 +850,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > y�uauE Getting approval
 > y�uauE The pre and post planning kick-off meetings
 
-**Documents:** [678495-1.pdf](pdfs/678495-1.pdf)
+**Documents:** [678495-1.pdf](CEUpdfs/678495-1.pdf)
 
 ## Loading Protocols for Seismic Performance Evaluation of Structural Components
 
@@ -877,7 +877,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 >
 > This session has been AIA/ICC approved for 2 CEU/PDH credits.
 
-**Documents:** [624730-1.pdf](pdfs/624730-1.pdf)
+**Documents:** [624730-1.pdf](CEUpdfs/624730-1.pdf)
 
 ## Fundamentals of Metals
 
@@ -903,7 +903,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > CERTIFICATE OF COMPLETION
 > You will be able to immediately print a certificate of completion after passing a twenty (20) question multiple-choice quiz. The quiz can be retaken unlimited times until a passing grade of 70% or better is earned. This course satisfies five (5) professional development hours (PDH) of continuing education.
 
-**Documents:** [577302-1.pdf](pdfs/577302-1.pdf)
+**Documents:** [577302-1.pdf](CEUpdfs/577302-1.pdf)
 
 ## ASCE 7-16 Response Spectrum Analysis in RFEM 6
 
@@ -923,7 +923,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > ASCE 7-16 seismic design utilizing the Response Spectrum Analysis Add-On
 > Improved story result output with the Building Model Add-On
 
-**Documents:** [547271-1.pdf](pdfs/547271-1.pdf)
+**Documents:** [547271-1.pdf](CEUpdfs/547271-1.pdf)
 
 
 # 2021
@@ -972,7 +972,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Learn about the concept of authority equaling responsibility
 > Understand the need for continuous improvement will be highlighted"
 
-**Documents:** [500597-1.pdf](pdfs/500597-1.pdf)
+**Documents:** [500597-1.pdf](CEUpdfs/500597-1.pdf)
 
 ## Post-Tensioning Concepts and Practice - Beyond the Basics (AWI062418)
 
@@ -1015,7 +1015,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 >
 > Students' achievement of the learning outcomes will be assessed via a short post-assessment (true-false multiple choice and fill in the blank questions).
 
-**Documents:** [496178-1.pdf](pdfs/496178-1.pdf)
+**Documents:** [496178-1.pdf](CEUpdfs/496178-1.pdf)
 
 ## Practical Design Construction and Repair guidelines for Shotcrete Application (AWI042320)
 
@@ -1058,7 +1058,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Be familiar with preconstruction and construction tests
 > Avoid costly design & construction errors
 
-**Documents:** [495359-1.pdf](pdfs/495359-1.pdf)
+**Documents:** [495359-1.pdf](CEUpdfs/495359-1.pdf)
 
 ## Indiana-Statutes Rules and Ethics for Professional Engineers: 3 PDH
 
@@ -1076,7 +1076,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 
 > Indiana y�uauE Statutes Rules & Ethics for Professional Engineers
 
-**Documents:** [495229-1.pdf](pdfs/495229-1.pdf)
+**Documents:** [495229-1.pdf](CEUpdfs/495229-1.pdf)
 
 ## Real World Issues Affecting Structural Bolt Installation and Inspection per Research Council on Structural Connectionsy�uau� Specification for Structural Joints Using High-Strength Bolts.
 
@@ -1094,7 +1094,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 
 > Discussion of issues affecting structural bolt installation and inspection per RCSC
 
-**Documents:** [500591-1.pdf](pdfs/500591-1.pdf)
+**Documents:** [500591-1.pdf](CEUpdfs/500591-1.pdf)
 
 ## Ethics of Volunteer Leadership
 
@@ -1112,7 +1112,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 
 > Webinar as part of SEI Leadership Meeting regarding Ethics of Volunteer Leadership.
 
-**Documents:** [500585-1.pdf](pdfs/500585-1.pdf)
+**Documents:** [500585-1.pdf](CEUpdfs/500585-1.pdf)
 
 ## ANCHOR 208: EFFICIENT DESIGNS INTO CONCRETE WITH A...
 
@@ -1138,7 +1138,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > 4.
 > Demonstrate the integrated workflow of anchor design using software
 
-**Documents:** [384146-1.pdf](pdfs/384146-1.pdf)
+**Documents:** [384146-1.pdf](CEUpdfs/384146-1.pdf)
 
 
 # 2020
@@ -1191,7 +1191,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 >
 > The content is suitable for structural engineers building officials plans examiners building inspectors and code development officials. The instruction will be moderate to advanced but anyone with an interest in interpreting the provisions of the building codes will benefit."
 
-**Documents:** [342572-1.pdf](pdfs/342572-1.pdf)
+**Documents:** [342572-1.pdf](CEUpdfs/342572-1.pdf)
 
 ## To Bayes or Not to Bayes
 
@@ -1259,7 +1259,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Forecasting: Kalman Filtering and Bayesian Forecasting
 > Sensitivity Analysis
 
-**Documents:** [334801-1.pdf](pdfs/334801-1.pdf)
+**Documents:** [334801-1.pdf](CEUpdfs/334801-1.pdf)
 
 ## The First Three Rules of Construction - Document Document Document (AWI062211)
 
@@ -1304,7 +1304,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > When and how to document oral communications
 > Tips for effective photographs and videos
 
-**Documents:** [335198-1.pdf](pdfs/335198-1.pdf)
+**Documents:** [335198-1.pdf](CEUpdfs/335198-1.pdf)
 
 ## Introduction to Rock Mechanics (AWI061516)
 
@@ -1353,7 +1353,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Rock masses
 > Conclusions
 
-**Documents:** [334005-1.pdf](pdfs/334005-1.pdf)
+**Documents:** [334005-1.pdf](CEUpdfs/334005-1.pdf)
 
 ## Engineering Ethics
 
@@ -1397,7 +1397,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 >
 > 4. Apply standards of professional and ethical responsibility to determine an appropriate course of action.
 
-**Documents:** [331692-1.pdf](pdfs/331692-1.pdf)
+**Documents:** [331692-1.pdf](CEUpdfs/331692-1.pdf)
 
 ## Designing Structures for Tsunami Resilience using the New Chapter 6 of ASCE 7-16 (AWI082216)
 
@@ -1473,7 +1473,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Designated nonstructural components and systems
 > Non-building tsunami risk category iii and iv structures
 
-**Documents:** [331302-1.pdf](pdfs/331302-1.pdf)
+**Documents:** [331302-1.pdf](CEUpdfs/331302-1.pdf)
 
 ## Deflection Calculation of Concrete Floors (AWI110410)
 
@@ -1528,7 +1528,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Credible estimates of long-term and immediate deflections
 > Estimate of crack width and its control
 
-**Documents:** [331299-1.pdf](pdfs/331299-1.pdf)
+**Documents:** [331299-1.pdf](CEUpdfs/331299-1.pdf)
 
 ## Anchor 207: Integrating Steel and Concrete Anchorage Design
 
@@ -1546,7 +1546,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 
 > Integration of RISA and Hilti anchor design software and theory behind their use.
 
-**Documents:** [297807-1.pdf](pdfs/297807-1.pdf)
+**Documents:** [297807-1.pdf](CEUpdfs/297807-1.pdf)
 
 
 # 2017
@@ -1622,7 +1622,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 > Fastening to Masonry NCSEA Course No. 160502D
 > This discussed the application and design of post installed masonry anchors.
 
-**Documents:** [22859-1.pdf](pdfs/22859-1.pdf)
+**Documents:** [22859-1.pdf](CEUpdfs/22859-1.pdf)
 
 ## Anchoring Principles and Design
 
@@ -1640,7 +1640,7 @@ Source: NCEES CPC backup downloaded October 29, 2026. Hours are recorded PDHs as
 
 > This webinar discussed the principles behind using Hilti post installed anchors including design methods.
 
-**Documents:** [22860-1.pdf](pdfs/22860-1.pdf)
+**Documents:** [22860-1.pdf](CEUpdfs/22860-1.pdf)
 
 ---
 
