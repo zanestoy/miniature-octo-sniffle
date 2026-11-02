@@ -2,8 +2,8 @@
 title: Life Plan
 mission: Live, Learn, Grow
 document_type: personal_life_plan
-schema_version: 0.1
-last_updated: 2026-11-01
+schema_version: 0.2
+last_updated: 2026-11-02
 review_cycle_weeks: 6
 status: working_draft
 source: 01-Planning Overview.pdf
@@ -61,22 +61,23 @@ I want to learn everything that I can, in many areas of my life. I will never pa
 
 The original ten categories are retained. Each can eventually have a dedicated domain file with a vision, ongoing responsibilities, measures, long-term goals, and links to specialized plans.
 
-| Area | Long-term direction / definition of success |
+| Area | Guiding Emphasis |
 | --- | --- |
-| [Artistic](Areas/Artistic.md) | _To define_ |
-| [Attitude](Areas/Attitude.md) | _To define_ |
-| [Career](Areas/Career.md) | _To define_ |
-| [Education](Areas/Education.md) | _To define_ |
-| [Family](Areas/Family.md) | _To define_ |
-| [Financial](Areas/Financial.md) | _To define_ |
-| [Physical](Areas/Physical.md) | _To define_ |
-| [Public Service](Areas/Public-Service.md) | _To define_ |
-| [Recreation (Pleasure)](Areas/Recreation.md) | _To define_ |
-| [Spiritual](Areas/Spiritual.md) | _To define_ |
+| [Artistic](Areas/Artistic.md) | Creative expression: writing, music, graphic art |
+| [Attitude](Areas/Attitude.md) | Conduct and responses toward others and surroundings |
+| [Career](Areas/Career.md) | Professional purpose, satisfaction, direction, time commitments |
+| [Education](Areas/Education.md) | Learning, reading, development, and mentoring |
+| [Family](Areas/Family.md) | Wife, children, extended family, friends |
+| [Financial](Areas/Financial.md) | Stewardship, budgeting, income, expenses |
+| [Physical](Areas/Physical.md) | Health, movement, energy, nutrition, sleep, recovery |
+| [Public Service](Areas/Public-Service.md) | Community service and care for those served |
+| [Recreation (Pleasure)](Areas/Recreation.md) | Enjoyment, restoration, hobbies, experiences |
+| [Spiritual](Areas/Spiritual.md) | Prayer, scripture, worship, the sacred |
+
 
 ### Balance and the Wheel of Life
 
-The original plan proposes a 1–10 self-rating and seeks (1) reasonably balanced categories and (2) improving categories. Keep this as a *reflection signal*, not a requirement that every score rise every cycle. Record scores and the reasons behind them in each six-week review.
+The original plan proposes a 1–10 rating with attention to balance and improvement. Use the scores as a reflection signal, supported by evidence, not a requirement for constant increases. During a six-week review, give each category a **Maintain**, **Improve**, or **Restore** designation. Not every category needs an active goal in every cycle.
 
 ## 4. Horizons of planning
 
@@ -147,7 +148,8 @@ A linked system can provide a **brief status summary** for an annual or six-week
 
 ## 7. Open decisions for the next revision
 
-- [ ] Confirm whether the original ten life areas should remain unchanged.
+- [x] Retain the original ten life areas, unchanged (confirmed 2026-11-02).
+- [ ] Review and approve the proposed success definitions in `Life-Areas.md`.
 - [ ] Decide the annual review date and first six-week cycle dates.
 - [ ] Define what counts as a six-week *outcome* versus a continuing responsibility.
 - [ ] Decide how much qualitative reflection versus numeric tracking is useful.

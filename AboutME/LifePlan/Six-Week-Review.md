@@ -4,83 +4,102 @@ review_date: YYYY-MM-DD
 period_start: YYYY-MM-DD
 period_end: YYYY-MM-DD
 status: template
+schema_version: 0.2
 ---
 
 # Six-Week Life Review — [period]
 
-**Reference:** [Life Plan](LifePlan.md)  
-**Previous review:** [link]  
-**Annual plan:** [link]
+**Guidance:** [Life Areas](Life-Areas.md) · **Life Plan:** [LifePlan.md](LifePlan.md) · **Annual plan:** [link] · **Previous review:** [link]
 
-## 1. Reflection
+> A review is a decision-making exercise, not a report card. Scan all ten areas; focus improvement efforts selectively. This template is a proposed adaptation of the original quarterly self-assessment.
+
+## 1. Look backward (10 minutes)
 
 **Three meaningful wins**
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
-**What was difficult, neglected, or out of balance?**
+**Meaningful experiences, lessons, or changes:**
 
+**Where was I stretched too thin, or out of alignment with my principles?**
 
-**What did I learn?**
+**What restored me? What depleted me?**
 
+## 2. Scan all ten life areas (15–20 minutes)
 
-**What needs to change in the next six weeks?**
+Score 1–10 if useful (or leave blank). Suggested interpretation: 1 = seriously unsatisfactory, 5 = mixed, 10 = thriving. Scores are subjective and should be grounded by a short note. Trend is relative to *the previous review*: ↑, →, ↓, or ? for unknown.
 
+Mode: **Maintain** = sustain; **Improve** = develop; **Restore** = recover attention or functioning.
 
-## 2. Life-area check-in
+| Area (original names) | Score | Trend | Mode | Observation or evidence | Action needed? |
+| --- | --- | --- | --- | --- | --- |
+| Artistic | | | | | |
+| Attitude | | | | | |
+| Career | | | | | |
+| Education | | | | | |
+| Family | | | | | |
+| Financial | | | | | |
+| Physical | | | | | |
+| Public Service | | | | | |
+| Recreation (Pleasure) | | | | | |
+| Spiritual | | | | | |
 
-Score each area from 1 to 10 if useful; include a brief note rather than reducing the review to numbers. Leave blank when no score is warranted.
+**Patterns across categories (including interactions and tradeoffs):**
 
-| Area | Score (1–10) | Trend (↑ → ↓) | Evidence / observation | Adjustment needed? |
+**Greatest concern / imbalance, if any:**
+
+## 3. Close the previous six-week cycle (5–10 minutes)
+
+| Prior intended outcome | Result and evidence | Decision (complete / continue / revise / drop) | Lesson |
+| --- | --- | --- | --- |
+| | | | |
+| | | | |
+| | | | |
+
+**Ongoing duties that were protected well:**
+
+**Ongoing duties needing attention:**
+
+## 4. Commit to the next six weeks (10–15 minutes)
+
+Select up to **three outcomes total** across all areas. These are *specific changes or accomplishments*, not recurring responsibilities. Record any essential duties separately.
+
+| Priority | Desired outcome | Related area(s) | Definition of done | First concrete action |
 | --- | --- | --- | --- | --- |
-| Artistic | | | | |
-| Attitude | | | | |
-| Career | | | | |
-| Education | | | | |
-| Family | | | | |
-| Financial | | | | |
-| Physical | | | | |
-| Public Service | | | | |
-| Recreation | | | | |
-| Spiritual | | | | |
+| 1 | | | | |
+| 2 | | | | |
+| 3 | | | | |
 
-**Most important imbalance or concern:**
+**Non-project responsibilities and relationships to protect:**
 
+**What will I pause, delegate, simplify, or say no to?**
 
-## 3. Review the previous cycle's outcomes
+**Important events, holidays, family commitments, and constraints in this cycle:**
 
-| Intended outcome | Result / evidence | Continue, revise, or close? |
-| --- | --- | --- |
-| | | |
-| | | |
-| | | |
+**Rest / margin I intend to protect:**
 
-## 4. Select the next cycle's focus
+## 5. Close (2 minutes)
 
-Choose up to three major outcomes *total* as a starting point, not three per category.
+**One sentence defining a successful next cycle:**
 
-| Outcome | Life area(s) | Why it matters | What will count as done? | First action |
-| --- | --- | --- | --- | --- |
-| 1. | | | | |
-| 2. | | | | |
-| 3. | | | | |
-
-**Ongoing duties and routines to protect:**
-
-
-**Commitments to stop, defer, or simplify:**
-
-
-**Key calendar events, deadlines, and family commitments:**
-
-
-## 5. Closing review
-
-**What will a successful next six weeks look like?**
-
-
-**One change that makes the plan easier to live:**
-
+**One adjustment to the review system itself:**
 
 **Next review date:**
+
+---
+
+## Optional deep-dive prompts (use only where relevant)
+
+- Artistic: writing, music, and graphic art
+- Attitude: treatment of colleagues, acquaintances, neighbors, and opponents
+- Career: work satisfaction, direction, professional development, and time commitment
+- Education: learning, reading, mentoring, and training needs
+- Family: wife, children, extended family, and friends
+- Financial: budget, income, expenses, and life expenses
+- Physical: movement, mood, outdoor time, energy, nutrition, workouts, sleep, restoration
+- Public Service: community contribution and care for those served
+- Recreation (Pleasure): hobbies, entertainment, relaxation, meaningful experiences
+- Spiritual: study, prayer, temple attendance, and the sacred
+
+*Original review topics: Planning Overview pp. 9–12. Cycle structure, modes, and outcome limit are proposed adaptations.*
