@@ -57,20 +57,22 @@ I want to learn everything that I can, in many areas of my life. I will never pa
 
 ## 3. Areas of life
 
+[Life Areas](Life-Areas)
+
 The original ten categories are retained. Each can eventually have a dedicated domain file with a vision, ongoing responsibilities, measures, long-term goals, and links to specialized plans.
 
-| Area | Long-term direction / definition of success | Linked plan or source |
-| --- | --- | --- |
-| Artistic | _To define_ | `Areas/Artistic.md` |
-| Attitude | _To define_ | `Areas/Attitude.md` |
-| Career | _To define_ | `Areas/Career.md` |
-| Education | _To define_ | `Areas/Education.md` |
-| Family | _To define_ | `Areas/Family.md` |
-| Financial | _To define_ | `Areas/Financial.md` |
-| Physical | _To define_ | `Areas/Physical.md` |
-| Public Service | _To define_ | `Areas/Public-Service.md` |
-| Recreation (Pleasure) | _To define_ | `Areas/Recreation.md` |
-| Spiritual | _To define_ | `Areas/Spiritual.md` |
+| Area | Long-term direction / definition of success |
+| --- | --- |
+| [Artistic](Areas/Artistic.md) | _To define_ |
+| [Attitude](Areas/Attitude.md) | _To define_ |
+| [Career](Areas/Career.md) | _To define_ |
+| [Education](Areas/Education.md) | _To define_ |
+| [Family](Areas/Family.md) | _To define_ |
+| [Financial](Areas/Financial.md) | _To define_ |
+| [Physical](Areas/Physical.md) | _To define_ |
+| [Public Service](Areas/Public-Service.md) | _To define_ |
+| [Recreation (Pleasure)](Areas/Recreation.md) | _To define_ |
+| [Spiritual](Areas/Spiritual.md) | _To define_ |
 
 ### Balance and the Wheel of Life
 
