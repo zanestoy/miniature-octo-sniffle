@@ -1,154 +1,160 @@
 Metadata
+---
+title:    Life Areas — Definitions and Review Prompts
+document_type:    life_plan_reference
+schema_version:    0.2
+last_updated:    2026-11-02
+status:    proposed_definitions
+source:    01-Planning Overview.pdf
+---
 
-title
-    Life Areas — Definitions and Review Prompts
-document_type
-    life_plan_reference
-schema_version
-    0.2
-last_updated
-    2026-11-02
-status
-    proposed_definitions
-source
-    01-Planning Overview.pdf
-
-Ten Areas of Life
+# Ten Areas of Life
 
 The names and order are preserved from the original Life Plan. The review dimensions below follow the questions on pages 9–12 of the source PDF. The definitions and core questions are proposed interpretations to approve or revise; they are not direct quotations.
 
 Use these ten areas for each six-week scan. A low score is information, not a moral grade. Areas may be in Maintain, Improve, or Restore mode. Maintain means sustain current commitments; Improve means pursue a deliberate outcome; Restore means address a neglected or strained baseline.
-Definitions
-1. Artistic
+# Definitions
+1. *Artistic*
 
-Proposed definition: Creative expression and development through writing, music, and graphic art.
+*Proposed definition:* Creative expression and development through writing, music, and graphic art.
 
-Original plan’s review topics: Writing; music; graphic art.
+*Original plan’s review topics:* Writing; music; graphic art.
 
-Core six-week question: Am I expressing and developing creativity in ways I value?
+*Core six-week question:* Am I expressing and developing creativity in ways I value?
 
-Personal definition of success: To be written and approved.
+*Personal definition of success:* To be written and approved.
 
-Ongoing responsibilities or practices: To define.
+*Ongoing responsibilities or practices:* To define.
 
-Related resources/plans: Add links when available.
-2. Attitude
+*Related resources/plans:* Add links when available.
 
-Proposed definition: The disposition and respect I bring to people, challenging situations, and my surroundings.
+2. *Attitude*
 
-Original plan’s review topics: Interactions with colleagues, acquaintances, neighbors, and opponents; how I respond to surroundings.
+*Proposed definition:* The disposition and respect I bring to people, challenging situations, and my surroundings.
 
-Core six-week question: How have I treated others, especially when situations were difficult?
+*Original plan’s review topics:* Interactions with colleagues, acquaintances, neighbors, and opponents; how I respond to surroundings.
 
-Personal definition of success: To be written and approved.
+*Core six-week question:* How have I treated others, especially when situations were difficult?
 
-Ongoing responsibilities or practices: To define.
+*Personal definition of success:* To be written and approved.
 
-Related resources/plans: Add links when available.
-3. Career
+*Ongoing responsibilities or practices:* To define.
 
-Proposed definition: Meaningful professional work, responsible performance, and deliberate career direction with a sustainable time commitment.
+*Related resources/plans:* Add links when available.
 
-Original plan’s review topics: Satisfaction with work, job, career strategy, business, profession, and time commitment.
+3. *Career*
 
-Core six-week question: Is my professional direction sound, and is the time it requires appropriate?
+*Proposed definition:* Meaningful professional work, responsible performance, and deliberate career direction with a sustainable time commitment.
 
-Personal definition of success: To be written and approved.
+*Original plan’s review topics:* Satisfaction with work, job, career strategy, business, profession, and time commitment.
 
-Ongoing responsibilities or practices: To define.
+*Core six-week question:* Is my professional direction sound, and is the time it requires appropriate?
 
-Related resources/plans: Add links when available.
-4. Education
+*Personal definition of success:* To be written and approved.
 
-Proposed definition: Continual learning, personal development, reading, training, and sharing knowledge with others.
+*Ongoing responsibilities or practices:* To define.
 
-Original plan’s review topics: Time for self-development; reading; mentoring; needed training; preferred ways of learning.
+*Related resources/plans:* Add links when available.
 
-Core six-week question: What have I learned or taught, and where should learning go next?
+4. *Education*
 
-Personal definition of success: To be written and approved.
+*Proposed definition:* Continual learning, personal development, reading, training, and sharing knowledge with others.
 
-Ongoing responsibilities or practices: To define.
+*Original plan’s review topics:* Time for self-development; reading; mentoring; needed training; preferred ways of learning.
 
-Related resources/plans: Add links when available.
-5. Family
+*Core six-week question:* What have I learned or taught, and where should learning go next?
 
-Proposed definition: Care and intentional relationships with my wife, children, extended family, and friends.
+*Personal definition of success:* To be written and approved.
 
-Original plan’s review topics: Relationships with wife, children, family, and friends.
+*Ongoing responsibilities or practices:* To define.
 
-Core six-week question: Have I been present and supportive in the relationships that matter most?
+*Related resources/plans:* Add links when available.
 
-Personal definition of success: To be written and approved.
+5. *Family*
 
-Ongoing responsibilities or practices: To define.
+*Proposed definition:* Care and intentional relationships with my wife, children, extended family, and friends.
 
-Related resources/plans: Add links when available.
-6. Financial
+*Original plan’s review topics:* Relationships with wife, children, family, and friends.
 
-Proposed definition: Responsible stewardship of resources, including financial stability and choices that support long-term life priorities.
+*Core six-week question:* Have I been present and supportive in the relationships that matter most?
 
-Original plan’s review topics: Budget; income; expenses; life expenses.
+*Personal definition of success:* To be written and approved.
 
-Core six-week question: Are my financial choices aligned with our needs and longer-term priorities?
+*Ongoing responsibilities or practices:* To define.
 
-Personal definition of success: To be written and approved.
+*Related resources/plans:* Add links when available.
 
-Ongoing responsibilities or practices: To define.
+6. *Financial*
 
-Related resources/plans: Add links when available.
-7. Physical
+*Proposed definition:* Responsible stewardship of resources, including financial stability and choices that support long-term life priorities.
 
-Proposed definition: Health, capability, energy, and recovery that support everyday life and long-term well-being.
+*Original plan’s review topics:* Budget; income; expenses; life expenses.
 
-Original plan’s review topics: Movement; mood; outdoor time; energy; eating; workouts; sleep; restoration; how I feel and look.
+*Core six-week question:* Are my financial choices aligned with our needs and longer-term priorities?
 
-Core six-week question: Do my habits support adequate energy, health, and recovery?
+*Personal definition of success:* To be written and approved.
 
-Personal definition of success: To be written and approved.
+*Ongoing responsibilities or practices:* To define.
 
-Ongoing responsibilities or practices: To define.
+*Related resources/plans:* Add links when available.
 
-Related resources/plans: Add links when available.
-8. Public Service
+7. *Physical*
 
-Proposed definition: Contribution and care beyond myself and my household, including those I serve and the broader community.
+*Proposed definition:* Health, capability, energy, and recovery that support everyday life and long-term well-being.
 
-Original plan’s review topics: Community service; care for those I serve.
+*Original plan’s review topics:* Movement; mood; outdoor time; energy; eating; workouts; sleep; restoration; how I feel and look.
 
-Core six-week question: Where have I served effectively, and who needs attention?
+*Core six-week question:* Do my habits support adequate energy, health, and recovery?
 
-Personal definition of success: To be written and approved.
+*Personal definition of success:* To be written and approved.
 
-Ongoing responsibilities or practices: To define.
+*Ongoing responsibilities or practices:* To define.
 
-Related resources/plans: Add links when available.
-9. Recreation (Pleasure)
+*Related resources/plans:* Add links when available.
 
-Proposed definition: Renewal, enjoyment, hobbies, experiences, and time that makes life brighter.
+8. *Public Service*
 
-Original plan’s review topics: Enjoyable experiences; entertainment; relaxation; hobbies; places visited.
+*Proposed definition:* Contribution and care beyond myself and my household, including those I serve and the broader community.
 
-Core six-week question: Have I made meaningful room for enjoyment and renewal?
+*Original plan’s review topics:* Community service; care for those I serve.
 
-Personal definition of success: To be written and approved.
+*Core six-week question:* Where have I served effectively, and who needs attention?
 
-Ongoing responsibilities or practices: To define.
+*Personal definition of success:* To be written and approved.
 
-Related resources/plans: Add links when available.
-10. Spiritual
+*Ongoing responsibilities or practices:* To define.
 
-Proposed definition: Spiritual growth, devotion, and attention to what is sacred.
+*Related resources/plans:* Add links when available.
 
-Original plan’s review topics: Spirituality; scripture study; prayer; temple attendance; sense of the sacred.
+9. *Recreation (Pleasure)*
 
-Core six-week question: How have I nourished my spiritual life and lived according to my beliefs?
+*Proposed definition:* Renewal, enjoyment, hobbies, experiences, and time that makes life brighter.
 
-Personal definition of success: To be written and approved.
+*Original plan’s review topics:* Enjoyable experiences; entertainment; relaxation; hobbies; places visited.
 
-Ongoing responsibilities or practices: To define.
+*Core six-week question:* Have I made meaningful room for enjoyment and renewal?
 
-Related resources/plans: Add links when available.
+*Personal definition of success:* To be written and approved.
+
+*Ongoing responsibilities or practices:* To define.
+
+*Related resources/plans:* Add links when available.
+
+10. *Spiritual*
+
+*Proposed definition:* Spiritual growth, devotion, and attention to what is sacred.
+
+*Original plan’s review topics:* Spirituality; scripture study; prayer; temple attendance; sense of the sacred.
+
+*Core six-week question:* How have I nourished my spiritual life and lived according to my beliefs?
+
+*Personal definition of success:* To be written and approved.
+
+*Ongoing responsibilities or practices:* To define.
+
+*Related resources/plans:* Add links when available.
+
+
 Review guidance
 
     Assess all ten areas in the six-week review; the scan can be brief.
